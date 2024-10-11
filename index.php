@@ -1,3 +1,10 @@
+<?php 
+
+echo "Mio mau";
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
